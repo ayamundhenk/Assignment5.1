@@ -3,4 +3,6 @@ Assignment 5.1
 Aya Mundhenk
 2026
 
-Will the customer accept the coupon?
+Analysis of drivers accepting coupons.
+For this submission, the focus is on Bar and Coffee House coupons.
+
